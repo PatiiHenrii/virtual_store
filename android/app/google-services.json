@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224298804274",
+    "firebase_url": "https://virtualstore-d4ac3.firebaseio.com",
+    "project_id": "virtualstore-d4ac3",
+    "storage_bucket": "virtualstore-d4ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224298804274:android:1c6b2ff6472c008cfbc82b",
+        "android_client_info": {
+          "package_name": "henrique.com.virtualstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224298804274-rh3mv0up75tj92it7ig08gummt6e30in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMCjzVssLjHV2J3Jyvf26e0PQYrD2Lo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224298804274-rh3mv0up75tj92it7ig08gummt6e30in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
